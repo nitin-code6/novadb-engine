@@ -1,0 +1,21 @@
+# Compiled files
+
+*.exe
+*.out
+*.o
+*.obj
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Database disk files
+
+disk
+disk_run_copy
+
+# Build folders
+
+build/
+bin/
